@@ -283,4 +283,6 @@ EquipoDeFutbol argentina = new EquipoDeFutbol("Argentina");
 		
 		assertEquals("Jos� Basanta", ultimo.getNombre());
 	}
+	
+	// TRABAJO TERMINADO
 }
